@@ -13,8 +13,8 @@ import useUserStore from "../../store/userStore";
 
 const Login = () => {
   const theme = useColorScheme();
-  const [name, setName] = useState<string>("Yogesh");
-  const [email, setEmail] = useState<string>("yogesh@bhawsar.dev");
+  const [name, setName] = useState<string>("");
+  const [email, setEmail] = useState<string>("");
 
   const setUser = useUserStore((state) => state.setUser);
 
