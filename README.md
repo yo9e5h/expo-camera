@@ -27,10 +27,13 @@ The app has two screens:
 
 ## Screenshots
 
-### Login Screen
-
-<img src="./assets/one.png">
-
-### Camera Screen
-
-<img src="./assets/two.png">
+<table>
+  <tr>
+    <th>Login Screen</th>
+    <th>Camera Screen</th>
+  </tr>
+  <tr>
+    <td><img src="./assets/one.png"></td>
+    <td><img src="./assets/two.png"></td>
+  </tr>
+</table>
