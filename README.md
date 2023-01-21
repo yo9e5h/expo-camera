@@ -25,3 +25,12 @@ The app has two screens:
 - The first screen prompts user for name and email and saves it to the device's storage.
 - The second screen asks for camera permissions and allows the user to record a video. The video is saved later in the device's gallery.
 
+## Screenshots
+
+### Login Screen
+
+<img src="./assets/one.png">
+
+### Camera Screen
+
+<img src="./assets/two.png">
